@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Bank.Application/">
+    <Project Path="Bank.Application/Bank.Application.csproj" />
+  </Folder>
+  <Folder Name="/Bank.Domain/">
+    <Project Path="Bank.Domain/Bank.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Bank.Infrastructure/">
+    <Project Path="Bank.Infrastructure/Bank.Infrastructure.csproj" />
+  </Folder>
+  <Project Path="BankSystem/BankSystem.csproj" />
+</Solution>
